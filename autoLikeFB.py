@@ -30,7 +30,7 @@ for l in range(0,20):
 pyautogui.hotkey('alt', 'tab')
 for z in range(0,100):
     time.sleep(0.2)
-    if (pyautogui.locateOnScreen('likeButtonOnFB.png')) != None:
+    if (pyautogui.locateOnScreen('newlikeButton.png')) != None:
         pyautogui.press('l')
     pyautogui.press('right')
     time.sleep(0.2)
