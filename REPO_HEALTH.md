@@ -1,7 +1,7 @@
 # 📊 Repo Health Audit: Facebook Auto-Liker
 
 ## Diagnostic Report
-This project has been audited for social automation utility and security.
+This project has been audited for computer vision accuracy, GUI automation safety, and dependency management.
 
 | Category | Item | Status | Score |
 | :--- | :--- | :--- | :--- |
