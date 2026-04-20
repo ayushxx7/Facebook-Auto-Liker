@@ -8,21 +8,12 @@
 
 **Facebook Auto-Liker** is a lightweight Python script that uses computer vision and keyboard/mouse automation via `PyAutoGUI` to automatically like images on Facebook. It's a "set and forget" tool for social interaction.
 
+`✅ Social Automation | ✅ Computer Vision | ✅ MIT Licensed | ✅ 45+ Stars Utility`
+
 ## 🎬 Showcase Gallery
-| 📟 Bot Execution | 🖼️ Image Matching |
+| 🖼️ Pattern Matching | 📟 Automation Logic |
 | :---: | :---: |
-| ![Demo](https://raw.githubusercontent.com/ayushxx7/Facebook-Auto-Liker/master/likeButtonOnFB.PNG) | ![Detection](https://raw.githubusercontent.com/ayushxx7/Facebook-Auto-Liker/master/newlikeButton.PNG) |
-
-## 📊 Repo Health: 80 / 100 (Legacy Support)
-This project is a popular community utility with 45+ stars.
-
-| Category | Item | Status | Score |
-| :--- | :--- | :--- | :--- |
-| **Documentation** | README & LICENSE | ✅ Updated | 15 / 15 |
-| **Security** | Secret Scan & .gitignore | ✅ Secure | 15 / 15 |
-| **Automation** | PyAutoGUI Core | ✅ Working | 15 / 20 |
-| **Showcase** | PNG Assets | ✅ Present | 15 / 20 |
-| **Distribution** | 45+ Stars Community | ✅ Active | 20 / 30 |
+| ![Detection](https://raw.githubusercontent.com/ayushxx7/Facebook-Auto-Liker/master/newlikeButton.PNG) | ![Flow](https://raw.githubusercontent.com/ayushxx7/Facebook-Auto-Liker/master/likeButtonOnFB.PNG) |
 
 ## 🏗 Architecture
 The bot operates using a simple linear execution loop powered by Pixel Matching and GUI automation.
